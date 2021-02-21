@@ -1,0 +1,7 @@
+node_modules/*
+.DS_Store
+app.log
+.vscode
+config/local.json
+uploads/*
+package-lock.json
